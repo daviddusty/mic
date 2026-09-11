@@ -1,5 +1,5 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ generated include file.
+// Microsoft Visual C++ generated include file..
 // Used by key_hook.rc
 
 // Next default values for new objects
